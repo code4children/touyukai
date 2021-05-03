@@ -1,4 +1,4 @@
 ## 選考委員
 
 
-[やることリスト](/selection/tasks) 
+[やることリスト](selection/tasks) 
